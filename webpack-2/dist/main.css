@@ -1,0 +1,22 @@
+/*!*****************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./src/index.scss ***!
+  \*****************************************************************************************************************************************************************/
+body {
+  background-color: #ffffff;
+  color: #c00;
+  font-family: Arial, Helvetica, sans-serif; }
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+  nav ul li {
+    border-bottom: 1px solid #666;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem; }
+    nav ul li:first-child {
+      background-color: #3232ff;
+      border-top: 3px solid #000; }
+
+
+/*# sourceMappingURL=main.css.map*/
